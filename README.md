@@ -20,7 +20,7 @@ For Mac or Linux:
 
 export PYTHONPATH="/path/to/project/root/folder"
 
-e.g. export PYTHONPATH="/Users/uni/Documents/Mid_module_assignment/floyds"
+e.g. export PYTHONPATH="/../Documents/assignment/recursion-iteration"
 
 #### 2) For executing code via IDE, please follow the IDE specific process of importing the project.
 Generic steps:
@@ -29,7 +29,7 @@ Generic steps:
 	
 	b. Choose 'Import' or 'Open'
 	
-	c. Navigate to the project root folder i.e. 'floyds'
+	c. Navigate to the project root folder i.e. 'recursion-iteration'
 	
 	d. Click 'Open'
 
@@ -38,7 +38,7 @@ Generic steps:
 #### To run scripts via command line or Terminal:
 1. Navigate to the folder containing python file you want to execute.
 
-	e.g. cd ../floyds/src/tests/
+	e.g. cd ../recursion-iteration/src/tests/
 2. To execute the file, use below command:
 	
 	python3 -m _filename_
